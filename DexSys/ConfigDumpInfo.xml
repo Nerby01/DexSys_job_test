@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.17">
+	<ConfigVersions>
+		<Metadata name="Catalog.ФизЛица" id="5f93ce84-0db9-418f-b31a-528e9c334bd9" configVersion="ed7a1008a865f64d8e8b78b44bf70e1400000000">
+			<Metadata name="Catalog.ФизЛица.Attribute.НашКлиент" id="8f1c936e-6563-4271-af8b-4db53fce8b37"/>
+		</Metadata>
+		<Metadata name="Catalog.ФизЛица.Form.ФормаСписка" id="8ef95a05-278a-4e30-82f2-9ce04d97e306" configVersion="ac1d01fed05855478bfeff888e4c102100000000"/>
+		<Metadata name="Catalog.ФизЛица.Form.ФормаСписка.Form" id="8ef95a05-278a-4e30-82f2-9ce04d97e306.0" configVersion="d91714a1933d844b9827f5a8fabd6b3500000000"/>
+		<Metadata name="Catalog.ЮрЛица" id="89c61b16-6051-492f-bb49-c4f2f6a5da87" configVersion="154bb3f1f17c36479fafc8ce5105051e00000000">
+			<Metadata name="Catalog.ЮрЛица.Command.СделатьГоловнойОрганизацией" id="2b2a4169-7bce-41c1-8850-7430d75d1c27"/>
+			<Metadata name="Catalog.ЮрЛица.Attribute.ГоловнаяОрганизация" id="51b84afd-ec9e-42c0-8232-e8f2d0e01aae"/>
+		</Metadata>
+		<Metadata name="Catalog.ЮрЛица.Command.СделатьГоловнойОрганизацией.CommandModule" id="2b2a4169-7bce-41c1-8850-7430d75d1c27.2" configVersion="bb64d90e4b2c104caa40d8e3e1018cd400000000"/>
+		<Metadata name="Catalog.ЮрЛица.ObjectModule" id="89c61b16-6051-492f-bb49-c4f2f6a5da87.0" configVersion="05f18af93b762e49b7085e740d59b28d00000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначения" id="c2a768cc-8a27-4140-a111-3916613bde36" configVersion="7601bd837c66d04d9931fecca3b8344500000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначения.Module" id="c2a768cc-8a27-4140-a111-3916613bde36.0" configVersion="4c8a6b00749f19459cf2c9aabcbfc8a900000000"/>
+		<Metadata name="Configuration.Конфигурация" id="3f286651-5461-439a-be3a-33fc42648e00" configVersion="29b37b097e305d48b3a8648a8baf461900000000"/>
+		<Metadata name="DataProcessor.ОчисткаТаблицы" id="40a469b6-60b4-4eb1-be01-3bc6d294b456" configVersion="f2dd1983148f794a83cbe9fa4e708bc200000000">
+			<Metadata name="DataProcessor.ОчисткаТаблицы.TabularSection.ТабличнаяЧастьТест.Attribute.Время" id="37316d5d-b89a-4d3a-a83e-83b709bdc68e"/>
+			<Metadata name="DataProcessor.ОчисткаТаблицы.TabularSection.ТабличнаяЧастьТест" id="3bf27c66-cc0c-4ee5-b016-7abcaa9345f2"/>
+			<Metadata name="DataProcessor.ОчисткаТаблицы.TabularSection.ТабличнаяЧастьТест.Attribute.Дата" id="5394ffba-3a6c-4498-9da3-ad2bf80fe4f5"/>
+			<Metadata name="DataProcessor.ОчисткаТаблицы.TabularSection.ТабличнаяЧастьТест.Attribute.Сумма" id="b831c766-e3af-42d8-baa8-aa47679d9dda"/>
+		</Metadata>
+		<Metadata name="DataProcessor.ОчисткаТаблицы.Form.Форма" id="5908e8f2-fc7d-46c2-8ffb-ecfc16f442d0" configVersion="193d7260a99093449ceacc867ba3a8c600000000"/>
+		<Metadata name="DataProcessor.ОчисткаТаблицы.Form.Форма.Form" id="5908e8f2-fc7d-46c2-8ffb-ecfc16f442d0.0" configVersion="1e7067a69eca754a95a68583a81cd12500000000"/>
+		<Metadata name="InformationRegister.РеквизитыЮрЛиц" id="4d07e964-3337-49a9-9948-b054e1319ef1" configVersion="d973c885eddf4a4dbe013f2d86aaa86b00000000">
+			<Metadata name="InformationRegister.РеквизитыЮрЛиц.Dimension.ЮрЛицо" id="14b190c1-98bb-4137-959f-11bf57f16f99"/>
+			<Metadata name="InformationRegister.РеквизитыЮрЛиц.Resource.ИНН" id="f7dae03d-8599-4a98-b509-f5d292656394"/>
+		</Metadata>
+		<Metadata name="InformationRegister.РеквизитыЮрЛиц.ManagerModule" id="4d07e964-3337-49a9-9948-b054e1319ef1.2" configVersion="d9ea0d7a9de08044a3b151ccad03ee2f00000000"/>
+		<Metadata name="InformationRegister.РеквизитыЮрЛиц.RecordSetModule" id="4d07e964-3337-49a9-9948-b054e1319ef1.1" configVersion="f135aa1c05b9e447a37dc3e9d46fd69600000000"/>
+		<Metadata name="Language.Русский" id="944588f6-2db1-48fc-a0c2-d849991415f6" configVersion="02c8d5b97d28144eb8561131694cbd6800000000"/>
+		<Metadata name="Subsystem.ТестовоеЗадание" id="451ae981-a5e7-471a-a127-d2e084c428bd" configVersion="d0880cf4b0c8b545a54691c155c28bb400000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
